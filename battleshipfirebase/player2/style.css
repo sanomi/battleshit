@@ -1,0 +1,25 @@
+td {
+	height: 20px;
+	width: 20px;
+	border: solid black 1px;
+}
+td
+{
+    padding: 5px;
+    border: 1px solid #666666;
+    cursor: pointer;
+}
+
+tr td:hover
+{
+    background-color: #DBE9FF;
+}
+
+.active
+{
+  background-color: #7DAFFF;
+}
+.superStyle{
+    background-color:red;
+}
+
